@@ -24,11 +24,5 @@ This is a simple and responsive **webpage** that fetches and displays **real-tim
 - ⚙️ Vanilla HTML, CSS, and JavaScript — no frameworks needed
 
 ---
-
-## Getting Started
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/your-username/weather-api-webpage.git
-cd weather-api-webpage
+## output
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/6e7dbddc-bd46-491a-85f8-99382d148d2f" />
